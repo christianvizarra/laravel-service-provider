@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require draperstudio/laravel-service-provider
+$ composer require christianvizarra/laravel-service-provider
 ```
 
 ## Usage
