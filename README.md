@@ -78,3 +78,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-downloads]: https://packagist.org/packages/DraperStudio/laravel-service-provider
 [link-author]: https://github.com/DraperStudio
 [link-contributors]: ../../contributors
+=======
+# laravel-service-provider
+forked of draperstudio/laravel-service-provider
