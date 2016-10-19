@@ -1,9 +1,11 @@
 {
-    "name": "draperstudio/laravel-service-provider",
+    "name": "christianvizarra/laravel-service-provider",
     "type": "library",
-    "description": "DRY Service Provider for Laravel 5 Packages",
+    "description": "Clone from draperstudio DRY Service Provider for Laravel 5 Packages",
     "keywords": [
+        "revived",
         "draperstudio",
+        "christianvizarra",
         "laravel-service-provider"
     ],
     "homepage": "https://github.com/DraperStudio/laravel-service-provider",
